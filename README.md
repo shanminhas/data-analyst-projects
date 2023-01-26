@@ -6,7 +6,7 @@
 ### Over the Years: Amazon Bestsellers - Top 50 Books (2009-2019)
 Within the Google certificate, there was an option to do a non-guided project. Considering I had already done a guided one, I leaned to this to expand my skills. I chose this book related dataset on Kaggle as I am an avid reader (and a novice writer)!
 
-You can find the Tableau data presentation [here](https://link-url-here.org](https://public.tableau.com/views/BestSellersFromAmazon2009-2019/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+You can find the Tableau data presentation [here](https://public.tableau.com/views/BestSellersFromAmazon2009-2019/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Guided Project: User Data from a Bike Rental Service
 I decided to use R for this guided project as I had experience with R before for statistics when I was helping my sister with her Masters. This was not my first data project, but the first after making the choice to come into this field.
